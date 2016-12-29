@@ -56,6 +56,7 @@ _提示：带有「🇨🇳」的项目为中文资源，或包含中文文档�
 - 🇨🇳 [百度地图扩展](https://github.com/ecomfe/echarts/tree/master/extension/bmap) - ECharts 百度地图扩展，可以在百度地图上展现点图，线图，热力图等可视化。
 - 🇨🇳 [leaflet-echarts3](https://github.com/wandergis/leaflet-echarts3) - A plugin for leaflet to load echarts3 map and Make big data visualization easier.
 - 🇨🇳 [arcgis-echarts3](https://github.com/wandergis/arcgis-echarts3) - A plugin for ArcGIS JS API to load echarts3 map and Make big data visualization easier.
+- 🇨🇳 [MapBoxGL-echarts3-layer](https://github.com/lzxue/echartsLayer) - Echarts MapBoxGL 扩展，可以从二，三维视角展示空间点，线，面，数据.
 
 ## Frameworks
 
