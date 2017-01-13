@@ -70,12 +70,14 @@ _提示：带有「🇨🇳」的项目为中文资源，或包含中文文档�
 
 - [vue-echarts](https://github.com/Justineo/vue-echarts) @Justineo - ECharts component for Vue.js.
 - [vue-echarts](https://github.com/panteng/vue-echarts) @panteng - A custom directive for using Echarts in Vue.js apps.
+- [vue-echarts-v3](https://github.com/xlsdg/vue-echarts-v3) @xlsdg - Vue.js(v2.x+) component wrap for ECharts.js(v3.x+).
 
 ### React Component
 
 - [echarts-for-react](https://github.com/hustcc/echarts-for-react) @hustcc - baidu Echarts(v3.0) components for React wrapper.
 - 🇨🇳 [react-echarts](https://github.com/somonus/react-echarts) @somonus
 - 🇨🇳 [re-echarts](https://github.com/liekkas/re-echarts) @liekkas
+- [react-echarts-v3](https://github.com/xlsdg/react-echarts-v3) @xlsdg - React component wrap for ECharts.js(v3.x).
 
 ## Languages
 
