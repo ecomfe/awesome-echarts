@@ -53,6 +53,7 @@ _提示：带有「🇨🇳」的项目为中文资源，或包含中文文档�
 
 - [wordcloud](https://github.com/ecomfe/echarts-wordcloud) - ECharts wordcloud extension based on wordcloud2.js.
 - [Graph Modularity](https://github.com/ecomfe/echarts-graph-modularity) - ECharts graph modularity extension for community detection.
+- [echarts3 leaflet extension](https://github.com/gnijuohz/echarts/tree/leaflet-extension/extension/leaflet) - ECharts leaflet extension.
 - 🇨🇳 [百度地图扩展](https://github.com/ecomfe/echarts/tree/master/extension/bmap) - ECharts 百度地图扩展，可以在百度地图上展现点图，线图，热力图等可视化。
 - 🇨🇳 [leaflet-echarts3](https://github.com/wandergis/leaflet-echarts3) - A plugin for leaflet to load echarts3 map and Make big data visualization easier.
 - 🇨🇳 [arcgis-echarts3](https://github.com/wandergis/arcgis-echarts3) - A plugin for ArcGIS JS API to load echarts3 map and Make big data visualization easier.
