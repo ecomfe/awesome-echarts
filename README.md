@@ -90,7 +90,7 @@ _提示：带有「🇨🇳」的项目为中文资源，或包含中文文档�
 
 ### Python
 
-- CN [pyecharts](https://github.com/chenjiandongx/pyecharts) @chenjiandongx - Python Echarts Plotting Library.
+- 🇨🇳 [pyecharts](https://github.com/chenjiandongx/pyecharts) @chenjiandongx - Python Echarts Plotting Library.
 - [pyecharts-snapshot](https://github.com/chfw/pyecharts-snapshot) by C. W.
 - [echarts-python](https://github.com/yufeiminds/echarts-python) @yufeiminds - Generate Echarts options with Python.
 - [krisk](https://github.com/napjon/krisk) @napjon - Statistical Interactive Visualization with pandas+Jupyter integration on top of Echarts.
