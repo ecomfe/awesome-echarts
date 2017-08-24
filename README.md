@@ -3,7 +3,7 @@
 > Awesome list of ECharts
 
 - Use <kbd>command</kbd> - <kbd>F</kbd> or <kbd>ctrl</kbd> - <kbd>F</kbd> to search for a keyword.
-- If you want to contribute to this list (please do), send me a pull request.
+- If you want to contribute to this list (please do), send a pull request. Please follow alphabetic order for both language and project names.
 
 _提示：带有「🇨🇳」的项目为中文资源，或包含中文文档。_
 
@@ -14,19 +14,19 @@ _提示：带有「🇨🇳」的项目为中文资源，或包含中文文档�
 - [Extensions](#extensions)
 - [Frameworks](#frameworks)
     - [AngularJS Binding](#angularjs-binding)
-    - [Vue Component](#vue-component)
     - [React Component](#react-component)
+    - [Vue Component](#vue-component)
 - [Languages](#languages)
-    - [JavaScript](#javascript)
-    - [Python](#python)
-    - [Jupyter Notebook](#jupyter-notebook)
-    - [R](#r)
-    - [Julia](#julia)
-    - [PureScript](#purescript)
     - [iOS](#ios)
     - [Java](#java)
+    - [JavaScript](#javascript)
+    - [Julia](#julia)
+    - [Jupyter Notebook](#jupyter-notebook)
     - [.NET](#net)
     - [PHP](#php)
+    - [PureScript](#purescript)
+    - [Python](#python)
+    - [R](#r)
 - [Community](#community)
 - [License](#license)
 
@@ -52,13 +52,13 @@ _提示：带有「🇨🇳」的项目为中文资源，或包含中文文档�
 
 ## Extensions
 
-- [wordcloud](https://github.com/ecomfe/echarts-wordcloud) - ECharts wordcloud extension based on wordcloud2.js.
-- [Graph Modularity](https://github.com/ecomfe/echarts-graph-modularity) - ECharts graph modularity extension for community detection.
-- [echarts-leaflet](https://github.com/gnijuohz/echarts-leaflet) - An extension to visualize data on leaflet maps.
-- 🇨🇳 [百度地图扩展](https://github.com/ecomfe/echarts/tree/master/extension/bmap) - ECharts 百度地图扩展，可以在百度地图上展现点图，线图，热力图等可视化。
-- 🇨🇳 [leaflet-echarts3](https://github.com/wandergis/leaflet-echarts3) - A plugin for leaflet to load echarts3 map and Make big data visualization easier.
 - 🇨🇳 [arcgis-echarts3](https://github.com/wandergis/arcgis-echarts3) - A plugin for ArcGIS JS API to load echarts3 map and Make big data visualization easier.
+- [echarts-leaflet](https://github.com/gnijuohz/echarts-leaflet) - An extension to visualize data on leaflet maps.
+- [Graph Modularity](https://github.com/ecomfe/echarts-graph-modularity) - ECharts graph modularity extension for community detection.
+- 🇨🇳 [leaflet-echarts3](https://github.com/wandergis/leaflet-echarts3) - A plugin for leaflet to load echarts3 map and Make big data visualization easier.
 - 🇨🇳 [MapBoxGL-echarts3-layer](https://github.com/lzxue/echartsLayer) - Echarts MapBoxGL 扩展，可以从二，三维视角展示空间点，线，面，数据.
+- [wordcloud](https://github.com/ecomfe/echarts-wordcloud) - ECharts wordcloud extension based on wordcloud2.js.
+- 🇨🇳 [百度地图扩展](https://github.com/ecomfe/echarts/tree/master/extension/bmap) - ECharts 百度地图扩展，可以在百度地图上展现点图，线图，热力图等可视化。
 
 ## Frameworks
 
@@ -68,50 +68,20 @@ _提示：带有「🇨🇳」的项目为中文资源，或包含中文文档�
 - 🇨🇳 [echarts-ng](https://github.com/bornkiller/echarts-ng) @bornkiller - Simple AngularJS wrap for Baidu ECharts.
 - 🇨🇳 [ng-echarts](https://github.com/liekkas/ng-echarts) @liekkas
 
+### React Component
+
+- [echarts-for-react](https://github.com/hustcc/echarts-for-react) @hustcc - baidu Echarts(v3.0) components for React wrapper.
+- 🇨🇳 [react-echarts](https://github.com/somonus/react-echarts) @somonus
+- [react-echarts-v3](https://github.com/xlsdg/react-echarts-v3) @xlsdg - React component wrap for ECharts.js(v3.x).
+- 🇨🇳 [re-echarts](https://github.com/liekkas/re-echarts) @liekkas
+
 ### Vue Component
 
 - [vue-echarts](https://github.com/Justineo/vue-echarts) @Justineo - ECharts component for Vue.js.
 - [vue-echarts](https://github.com/panteng/vue-echarts) @panteng - A custom directive for using Echarts in Vue.js apps.
 - [vue-echarts-v3](https://github.com/xlsdg/vue-echarts-v3) @xlsdg - Vue.js(v2.x+) component wrap for ECharts.js(v3.x+).
 
-### React Component
-
-- [echarts-for-react](https://github.com/hustcc/echarts-for-react) @hustcc - baidu Echarts(v3.0) components for React wrapper.
-- 🇨🇳 [react-echarts](https://github.com/somonus/react-echarts) @somonus
-- 🇨🇳 [re-echarts](https://github.com/liekkas/re-echarts) @liekkas
-- [react-echarts-v3](https://github.com/xlsdg/react-echarts-v3) @xlsdg - React component wrap for ECharts.js(v3.x).
-
 ## Languages
-
-### JavaScript
-
-- [echarts](https://github.com/ecomfe/echarts)
-- [echarts-x](https://github.com/ecomfe/echarts-x)
-
-### Python
-
-- 🇨🇳 [pyecharts](https://github.com/chenjiandongx/pyecharts) @chenjiandongx - Python Echarts Plotting Library.
-- [pyecharts-snapshot](https://github.com/chfw/pyecharts-snapshot) by C. W.
-- [echarts-python](https://github.com/yufeiminds/echarts-python) @yufeiminds - Generate Echarts options with Python.
-- [krisk](https://github.com/napjon/krisk) @napjon - Statistical Interactive Visualization with pandas+Jupyter integration on top of Echarts.
-
-### Jupyter-Notebook
-
-- [jupyter-echarts](https://github.com/chfw/jupyter-echarts) by C. W.
-
-### R
-
-- 🇨🇳 [recharts](https://github.com/taiyun/recharts) @taiyun - A R interface to ECharts for data visualization.
-- [recharts](https://github.com/yihui/recharts) @yihui - An R Interface to ECharts
-- 🇨🇳 [ECharts2Shiny](https://github.com/XD-DENG/ECharts2Shiny) @XD-DENG - To insert interactive charts from ECharts into R Shiny applications.
-
-### Julia
-
-- [ECharts.jl](https://github.com/randyzwitch/ECharts.jl) @randyzwitch - Julia package for the ECharts 3 visualization library.
-
-### PureScript
-
-- [purescript-echarts](https://github.com/slamdata/purescript-echarts/) - Purescript bindings for Baidu's Echarts library.
 
 ### iOS
 
@@ -121,9 +91,39 @@ _提示：带有「🇨🇳」的项目为中文资源，或包含中文文档�
 
 - 🇨🇳 [ECharts-Java](https://github.com/abel533/ECharts) @Liuzh_533 - 一个供Java开发使用的ECharts的开发包。
 
+### JavaScript
+
+- [echarts](https://github.com/ecomfe/echarts)
+- [echarts-x](https://github.com/ecomfe/echarts-x)
+
+### Julia
+
+- [ECharts.jl](https://github.com/randyzwitch/ECharts.jl) @randyzwitch - Julia package for the ECharts 3 visualization library.
+
+### Jupyter-Notebook
+
+- [jupyter-echarts](https://github.com/chfw/jupyter-echarts) by C. W.
+
 ### .NET
 
 - 🇨🇳 [EChartsSDK](https://github.com/idoku/EChartsSDK) @idoku - ECharts的.NET类库,从ECharts的Java类库移植。
+
+### PureScript
+
+- [purescript-echarts](https://github.com/slamdata/purescript-echarts/) - Purescript bindings for Baidu's Echarts library.
+
+### Python
+
+- [echarts-python](https://github.com/yufeiminds/echarts-python) @yufeiminds - Generate Echarts options with Python.
+- [krisk](https://github.com/napjon/krisk) @napjon - Statistical Interactive Visualization with pandas+Jupyter integration on top of Echarts.
+- 🇨🇳 [pyecharts](https://github.com/chenjiandongx/pyecharts) @chenjiandongx - Python Echarts Plotting Library.
+- [pyecharts-snapshot](https://github.com/chfw/pyecharts-snapshot) by C. W.
+
+### R
+
+- 🇨🇳 [ECharts2Shiny](https://github.com/XD-DENG/ECharts2Shiny) @XD-DENG - To insert interactive charts from ECharts into R Shiny applications.
+- 🇨🇳 [recharts](https://github.com/taiyun/recharts) @taiyun - A R interface to ECharts for data visualization.
+- [recharts](https://github.com/yihui/recharts) @yihui - An R Interface to ECharts
 
 ### PHP
 
@@ -131,10 +131,10 @@ _提示：带有「🇨🇳」的项目为中文资源，或包含中文文档�
 
 ## Community
 
+- 🇨🇳 [ECharts Gallery](http://gallery.echartsjs.com/)
 - [GitHub](https://github.com/ecomfe/echarts)
 - [Twitter](https://twitter.com/EChartsJs)
 - 🇨🇳 [Weibo](http://weibo.com/echarts)
-- 🇨🇳 [ECharts Gallery](http://gallery.echartsjs.com/)
 
 ## License
 
