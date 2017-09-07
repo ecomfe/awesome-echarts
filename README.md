@@ -53,13 +53,13 @@ _提示：带有「🇨🇳」的项目为中文资源，或包含中文文档�
 ## Extensions
 
 - 🇨🇳 [arcgis-echarts3](https://github.com/wandergis/arcgis-echarts3) - A plugin for ArcGIS JS API to load echarts3 map and Make big data visualization easier.
+- [echarts-china-cities-js](https://github.com/chfw/echarts-china-cities-js) @chfw - Packages the maps of 363 Chinese provincial cities for echarts.
 - [echarts-leaflet](https://github.com/gnijuohz/echarts-leaflet) - An extension to visualize data on leaflet maps.
 - [Graph Modularity](https://github.com/ecomfe/echarts-graph-modularity) - ECharts graph modularity extension for community detection.
 - 🇨🇳 [leaflet-echarts3](https://github.com/wandergis/leaflet-echarts3) - A plugin for leaflet to load echarts3 map and Make big data visualization easier.
 - 🇨🇳 [MapBoxGL-echarts3-layer](https://github.com/lzxue/echartsLayer) - Echarts MapBoxGL 扩展，可以从二，三维视角展示空间点，线，面，数据.
 - [wordcloud](https://github.com/ecomfe/echarts-wordcloud) - ECharts wordcloud extension based on wordcloud2.js.
 - 🇨🇳 [百度地图扩展](https://github.com/ecomfe/echarts/tree/master/extension/bmap) - ECharts 百度地图扩展，可以在百度地图上展现点图，线图，热力图等可视化。
-- [echarts-china-cities-js](https://github.com/chfw/echarts-china-cities-js) @chfw - Packages the maps of 363 Chinese provincial cities for echarts.
 
 ## Frameworks
 
