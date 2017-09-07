@@ -53,6 +53,7 @@ _提示：带有「🇨🇳」的项目为中文资源，或包含中文文档�
 ## Extensions
 
 - 🇨🇳 [arcgis-echarts3](https://github.com/wandergis/arcgis-echarts3) - A plugin for ArcGIS JS API to load echarts3 map and Make big data visualization easier.
+- [echarts-china-cities-js](https://github.com/chfw/echarts-china-cities-js) @chfw - Packages the maps of 363 Chinese provincial cities for echarts.
 - [echarts-leaflet](https://github.com/gnijuohz/echarts-leaflet) - An extension to visualize data on leaflet maps.
 - [Graph Modularity](https://github.com/ecomfe/echarts-graph-modularity) - ECharts graph modularity extension for community detection.
 - 🇨🇳 [leaflet-echarts3](https://github.com/wandergis/leaflet-echarts3) - A plugin for leaflet to load echarts3 map and Make big data visualization easier.
@@ -102,11 +103,15 @@ _提示：带有「🇨🇳」的项目为中文资源，或包含中文文档�
 
 ### Jupyter-Notebook
 
-- [jupyter-echarts](https://github.com/chfw/jupyter-echarts) by C. W.
+- [jupyter-echarts](https://github.com/chfw/jupyter-echarts) @chfw - Integrates echarts with jupyter notebook via nbextensions
 
 ### .NET
 
 - 🇨🇳 [EChartsSDK](https://github.com/idoku/EChartsSDK) @idoku - ECharts的.NET类库,从ECharts的Java类库移植。
+
+### Node.js
+
+- [echarts-scrappeteer](https://github.com/chfw/echarts-scrappeteer) @chfw - Puppeteer! Scrape all echarts from this web page please!
 
 ### PureScript
 
@@ -117,7 +122,7 @@ _提示：带有「🇨🇳」的项目为中文资源，或包含中文文档�
 - [echarts-python](https://github.com/yufeiminds/echarts-python) @yufeiminds - Generate Echarts options with Python.
 - [krisk](https://github.com/napjon/krisk) @napjon - Statistical Interactive Visualization with pandas+Jupyter integration on top of Echarts.
 - 🇨🇳 [pyecharts](https://github.com/chenjiandongx/pyecharts) @chenjiandongx - Python Echarts Plotting Library.
-- [pyecharts-snapshot](https://github.com/chfw/pyecharts-snapshot) by C. W.
+- [pyecharts-snapshot](https://github.com/chfw/pyecharts-snapshot) @chfw - Renders the output of pyecharts as png, jpeg, gif and pdf
 
 ### R
 
