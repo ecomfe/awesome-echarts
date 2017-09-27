@@ -60,7 +60,7 @@ _提示：带有「🇨🇳」的项目为中文资源，或包含中文文档�
 - 🇨🇳 [MapBoxGL-echarts3-layer](https://github.com/lzxue/echartsLayer) - Echarts MapBoxGL 扩展，可以从二，三维视角展示空间点，线，面，数据.
 - [wordcloud](https://github.com/ecomfe/echarts-wordcloud) - ECharts wordcloud extension based on wordcloud2.js.
 - 🇨🇳 [百度地图扩展](https://github.com/ecomfe/echarts/tree/master/extension/bmap) - ECharts 百度地图扩展，可以在百度地图上展现点图，线图，热力图等可视化。
-- 🇨🇳 [openlayers-echarts3](https://github.com/sakitam-fdd/ol3Echarts) - echarts图表的openlayers扩展，实现openlayers地图数据可视化。
+- 🇨🇳 [openlayers-echarts3](https://github.com/sakitam-fdd/ol3Echarts) - echarts图表的openlayers扩展，实现openlayers地图数据可视化。支持openlayers3和openlayers4.
 
 ## Frameworks
 
