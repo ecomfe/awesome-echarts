@@ -56,7 +56,7 @@ _提示：带有「🇨🇳」的项目为中文资源，或包含中文文档�
 
 - 🇨🇳 [arcgis-echarts3](https://github.com/wandergis/arcgis-echarts3) - A plugin for ArcGIS JS API to load echarts3 map and Make big data visualization easier.
 - [echarts-china-cities-js](https://github.com/chfw/echarts-china-cities-js) - Packages the maps of 363 Chinese provincial cities for echarts.
-- [echarts-china-cities-js](https://github.com/chfw/echarts-countries-js) - Packages the maps of 213 countries and regions for echarts.
+- [echarts-countries-js](https://github.com/chfw/echarts-countries-js) - Packages the maps of 213 countries and regions for echarts.
 - [echarts-leaflet](https://github.com/gnijuohz/echarts-leaflet) - An extension to visualize data on leaflet maps.
 - [Graph Modularity](https://github.com/ecomfe/echarts-graph-modularity) - ECharts graph modularity extension for community detection.
 - 🇨🇳 [leaflet-echarts3](https://github.com/wandergis/leaflet-echarts3) - A plugin for leaflet to load echarts3 map and Make big data visualization easier.
