@@ -17,12 +17,14 @@ _提示：带有「🇨🇳」的项目为中文资源，或包含中文文档�
     - [React Component](#react-component)
     - [Vue Component](#vue-component)
 - [Languages](#languages)
+    - [Brython](#brython)
     - [iOS](#ios)
     - [Java](#java)
     - [JavaScript](#javascript)
     - [Julia](#julia)
     - [Jupyter Notebook](#jupyter-notebook)
     - [.NET](#net)
+    - [Node.js](#nodejs)
     - [PHP](#php)
     - [PureScript](#purescript)
     - [Python](#python)
@@ -53,7 +55,8 @@ _提示：带有「🇨🇳」的项目为中文资源，或包含中文文档�
 ## Extensions
 
 - 🇨🇳 [arcgis-echarts3](https://github.com/wandergis/arcgis-echarts3) - A plugin for ArcGIS JS API to load echarts3 map and Make big data visualization easier.
-- [echarts-china-cities-js](https://github.com/chfw/echarts-china-cities-js) @chfw - Packages the maps of 363 Chinese provincial cities for echarts.
+- [echarts-china-cities-js](https://github.com/chfw/echarts-china-cities-js) - Packages the maps of 363 Chinese provincial cities for echarts.
+- [echarts-china-cities-js](https://github.com/chfw/echarts-countries-js) - Packages the maps of 213 countries and regions for echarts.
 - [echarts-leaflet](https://github.com/gnijuohz/echarts-leaflet) - An extension to visualize data on leaflet maps.
 - [Graph Modularity](https://github.com/ecomfe/echarts-graph-modularity) - ECharts graph modularity extension for community detection.
 - 🇨🇳 [leaflet-echarts3](https://github.com/wandergis/leaflet-echarts3) - A plugin for leaflet to load echarts3 map and Make big data visualization easier.
@@ -85,6 +88,10 @@ _提示：带有「🇨🇳」的项目为中文资源，或包含中文文档�
 - [vue-echarts-v3](https://github.com/xlsdg/vue-echarts-v3) @xlsdg - Vue.js(v2.x+) component wrap for ECharts.js(v3.x+).
 
 ## Languages
+
+### Brython
+
+- [bryecharts](https://github.com/chfw/bryecharts) @chfw - Draw echarts using python language in modern browsers.
 
 ### iOS
 
