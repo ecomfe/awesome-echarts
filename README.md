@@ -116,7 +116,7 @@ _提示：带有「🇨🇳」的项目为中文资源，或包含中文文档�
 ### Node.js
 
 - [echarts-scrappeteer](https://github.com/chfw/echarts-scrappeteer) @chfw - Puppeteer! Scrape all echarts from this web page please!
-- 🇨🇳 [node-echarts](https://github.com/suxiaoxin/node-echarts) @suxiaoxin - 后台生成echarts图表
+- 🇨🇳 [node-echarts](https://github.com/suxiaoxin/node-echarts) @suxiaoxin - 后台生成ECharts图表
 
 ### PureScript
 
