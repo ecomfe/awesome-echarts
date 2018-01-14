@@ -129,7 +129,7 @@ _提示：带有「🇨🇳」的项目为中文资源，或包含中文文档�
 - [pyecharts.js](https://github.com/chfw/bryecharts) @chfw - Draw ECharts using python language in modern browsers.
 - [echarts-python](https://github.com/yufeiminds/echarts-python) @yufeiminds - Generate Echarts options with Python.
 - [krisk](https://github.com/napjon/krisk) @napjon - Statistical Interactive Visualization with pandas+Jupyter integration on top of Echarts.
-- 🇨🇳 [pyecharts](https://github.com/chenjiandongx/pyecharts) @chenjiandongx - Python Echarts Plotting Library.
+- 🇨🇳 [pyecharts](https://github.com/pyecharts/pyecharts) @chenjiandongx - Python Echarts Plotting Library.
 - [pyecharts-snapshot](https://github.com/pyecharts/pyecharts-snapshot) @pyecharts dev team - Renders the output of pyecharts as png, jpeg, gif and pdf
 
 ### R
