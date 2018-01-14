@@ -54,8 +54,8 @@ _提示：带有「🇨🇳」的项目为中文资源，或包含中文文档�
 ## Extensions
 
 - 🇨🇳 [arcgis-echarts3](https://github.com/wandergis/arcgis-echarts3) - A plugin for ArcGIS JS API to load echarts3 map and Make big data visualization easier.
-- [echarts-china-cities-js](https://github.com/chfw/echarts-china-cities-js) - Packages the maps of 363 Chinese provincial cities for ECharts.
-- [echarts-countries-js](https://github.com/chfw/echarts-countries-js) - Packages the maps of 213 countries and regions for ECharts.
+- [echarts-china-cities-js](https://github.com/pyecharts/echarts-china-cities-js) - Packages the maps of 363 Chinese provincial cities for ECharts.
+- [echarts-countries-js](https://github.com/pyecharts/echarts-countries-js) - Packages the maps of 213 countries and regions for ECharts.
 - [echarts-leaflet](https://github.com/gnijuohz/echarts-leaflet) - An extension to visualize data on leaflet maps.
 - [Graph Modularity](https://github.com/ecomfe/echarts-graph-modularity) - ECharts graph modularity extension for community detection.
 - 🇨🇳 [leaflet-echarts3](https://github.com/wandergis/leaflet-echarts3) - A plugin for leaflet to load echarts3 map and Make big data visualization easier.
@@ -109,7 +109,7 @@ _提示：带有「🇨🇳」的项目为中文资源，或包含中文文档�
 
 ### Jupyter-Notebook
 
-- [jupyter-echarts](https://github.com/chfw/jupyter-echarts) @chfw - Integrates ECharts with jupyter notebook via nbextensions
+- [jupyter-echarts](https://github.com/pyecharts/jupyter-echarts) @pyecharts dev team - Integrates ECharts with jupyter notebook via nbextensions
 
 ### .NET
 
@@ -126,11 +126,11 @@ _提示：带有「🇨🇳」的项目为中文资源，或包含中文文档�
 
 ### Python
 
-- [bryecharts](https://github.com/chfw/bryecharts) @chfw - Draw ECharts using python language in modern browsers.
+- [pyecharts.js](https://github.com/chfw/bryecharts) @chfw - Draw ECharts using python language in modern browsers.
 - [echarts-python](https://github.com/yufeiminds/echarts-python) @yufeiminds - Generate Echarts options with Python.
 - [krisk](https://github.com/napjon/krisk) @napjon - Statistical Interactive Visualization with pandas+Jupyter integration on top of Echarts.
 - 🇨🇳 [pyecharts](https://github.com/chenjiandongx/pyecharts) @chenjiandongx - Python Echarts Plotting Library.
-- [pyecharts-snapshot](https://github.com/chfw/pyecharts-snapshot) @chfw - Renders the output of pyecharts as png, jpeg, gif and pdf
+- [pyecharts-snapshot](https://github.com/pyecharts/pyecharts-snapshot) @pyecharts dev team - Renders the output of pyecharts as png, jpeg, gif and pdf
 
 ### R
 
