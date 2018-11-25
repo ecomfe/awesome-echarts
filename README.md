@@ -37,7 +37,7 @@ _提示：带有「🇨🇳」的项目为中文资源，或包含中文文档�
 
 ## Learn
 
-### Offical docs
+### Official docs
 
 - [Tutorial](http://ecomfe.github.io/echarts-doc/public/en/tutorial.html)
 - [API](http://ecomfe.github.io/echarts-doc/public/en/api.html)
