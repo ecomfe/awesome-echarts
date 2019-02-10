@@ -17,6 +17,7 @@ _提示：带有「🇨🇳」的项目为中文资源，或包含中文文档�
     - [React Component](#react-component)
     - [Vue Component](#vue-component)
 - [Languages](#languages)
+    - [Golang](#golang)
     - [iOS](#ios)
     - [Java](#java)
     - [JavaScript](#javascript)
@@ -89,6 +90,10 @@ _提示：带有「🇨🇳」的项目为中文资源，或包含中文文档�
 - [vue-echarts-v3](https://github.com/xlsdg/vue-echarts-v3) @xlsdg - Vue.js(v2.x+) component wrap for ECharts.js(v3.x+).
 
 ## Languages
+
+### Golang
+
+- 🇨🇳 [go-echarts](https://github.com/chenjiandongx/go-echarts) @chenjiandongx - The adorable charts library for Golang.
 
 ### iOS
 
