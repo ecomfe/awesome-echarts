@@ -40,9 +40,9 @@ _提示：带有「🇨🇳」的项目为中文资源，或包含中文文档�
 
 ### Official docs
 
-- [Tutorial](http://ecomfe.github.io/echarts-doc/public/en/tutorial.html)
-- [API](http://ecomfe.github.io/echarts-doc/public/en/api.html)
-- [Option Manual](http://ecomfe.github.io/echarts-doc/public/en/option.html)
+- [Tutorial](https://echarts.apache.org/en/tutorial.html)
+- [API](https://echarts.apache.org/en/api.html)
+- [Option Manual](https://echarts.apache.org/en/option.html)
 - 🇨🇳 [教程](http://echarts.baidu.com/tutorial.html)
 - 🇨🇳 [API](http://echarts.baidu.com/api.html)
 - 🇨🇳 [配置项手册](http://echarts.baidu.com/option.html)
