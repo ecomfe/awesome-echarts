@@ -135,9 +135,9 @@ _提示：带有「🇨🇳」的项目为中文资源，或包含中文文档�
 ### R
 
 - 🇨🇳 [ECharts2Shiny](https://github.com/XD-DENG/ECharts2Shiny) @XD-DENG - To insert interactive charts from ECharts into R Shiny applications.
+- [echarts4r](https://echarts4r.john-coene.com/) @JohnCoene - An R interface to ECharts version 4
 - 🇨🇳 [recharts](https://github.com/taiyun/recharts) @taiyun - A R interface to ECharts for data visualization.
 - [recharts](https://github.com/yihui/recharts) @yihui - An R Interface to ECharts
-- [echarts4r](https://echarts4r.john-coene.com/) @JohnCoene - An R interface to ECharts version 4
 
 ### PHP
 
