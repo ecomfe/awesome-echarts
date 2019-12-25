@@ -18,6 +18,7 @@ _提示：带有「🇨🇳」的项目为中文资源，或包含中文文档�
     - [React Native Component](#react-native-component)
     - [Vue Component](#vue-component)
 - [Languages](#languages)
+    - [Dart](#dart)
     - [Golang](#golang)
     - [iOS](#ios)
     - [Java](#java)
@@ -95,6 +96,10 @@ _提示：带有「🇨🇳」的项目为中文资源，或包含中文文档�
 - [vue-echarts-v3](https://github.com/xlsdg/vue-echarts-v3) @xlsdg - Vue.js(v2.x+) component wrap for ECharts.js(v3.x+).
 
 ## Languages
+
+### Dart
+
+- 🇨🇳 [flutter_echarts](https://github.com/entronad/flutter_echarts) @entronad - A Flutter widget to use Echarts in a reactive way.
 
 ### Golang
 
