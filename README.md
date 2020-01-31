@@ -14,6 +14,7 @@ _提示：带有「🇨🇳」的项目为中文资源，或包含中文文档�
 - [Extensions](#extensions)
 - [Frameworks](#frameworks)
     - [AngularJS Binding](#angularjs-binding)
+    - [Blazor Binding](#blazor-binding)
     - [React Component](#react-component)
     - [React Native Component](#react-native-component)
     - [Vue Component](#vue-component)
@@ -75,6 +76,10 @@ _提示：带有「🇨🇳」的项目为中文资源，或包含中文文档�
 - [angular-echarts](https://github.com/wangshijun/angular-echarts) @wangshijun - AngularJS bindings for Baidu ECharts.
 - 🇨🇳 [echarts-ng](https://github.com/bornkiller/echarts-ng) @bornkiller - Simple AngularJS wrap for Baidu ECharts.
 - 🇨🇳 [ng-echarts](https://github.com/liekkas/ng-echarts) @liekkas
+
+### Blazor Binding
+
+- [blazor-echarts](https://github.com/caopengfei/BlazorECharts) @caopengfei - Blazor version of ECharts chart component.
 
 ### React Component
 
