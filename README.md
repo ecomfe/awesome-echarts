@@ -15,6 +15,7 @@ _提示：带有「🇨🇳」的项目为中文资源，或包含中文文档�
 - [Frameworks](#frameworks)
     - [AngularJS Binding](#angularjs-binding)
     - [Blazor Binding](#blazor-binding)
+    - [Flutter Component](#flutter-component)
     - [React Component](#react-component)
     - [React Native Component](#react-native-component)
     - [Vue Component](#vue-component)
@@ -80,6 +81,10 @@ _提示：带有「🇨🇳」的项目为中文资源，或包含中文文档�
 ### Blazor Binding
 
 - [blazor-echarts](https://github.com/caopengfei/BlazorECharts) @caopengfei - Blazor version of ECharts chart component.
+
+### Flutter Component
+
+- [flutter_echarts](https://github.com/entronad/flutter_echarts) @entronad - A Flutter widget to use Echarts in a reactive way.
 
 ### React Component
 
