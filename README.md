@@ -1,5 +1,7 @@
 # awesome-echarts [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
+This is a repo contributed by community with awesome resources for [Apache ECharts (incubating)](https://github.com/apache/incubator-echarts).
+
 > Awesome list of ECharts
 
 - Use <kbd>command</kbd> - <kbd>F</kbd> or <kbd>ctrl</kbd> - <kbd>F</kbd> to search for a keyword.
@@ -40,7 +42,7 @@ _提示：带有「🇨🇳」的项目为中文资源，或包含中文文档�
 
 ## About
 
-[ECharts](https://github.com/ecomfe/echarts) is a free, powerful charting and visualization library offering an easy way of adding intuitive, interactive, and highly customizable charts to your commercial products. It is written in pure JavaScript and based on [zrender](https://github.com/ecomfe/zrender), which is a whole new lightweight canvas library.
+[Apache ECharts (incubating)](https://github.com/apache/incubator-echarts) is a free, powerful charting and visualization library offering an easy way of adding intuitive, interactive, and highly customizable charts to your commercial products. It is written in pure JavaScript and based on [zrender](https://github.com/ecomfe/zrender), which is a whole new lightweight canvas library.
 
 ## Learn
 
