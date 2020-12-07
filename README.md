@@ -107,6 +107,7 @@ _提示：带有「🇨🇳」的项目为中文资源，或包含中文文档�
 - [vue-echarts](https://github.com/panteng/vue-echarts) @panteng - A custom directive for using Echarts in Vue.js apps.
 - [vue-echarts-lite](https://github.com/LeungZ9/vue-echarts-lite) @LeungZ9 - A lite Vue.js 2.0+ component for ECharts V3.
 - [vue-echarts-v3](https://github.com/xlsdg/vue-echarts-v3) @xlsdg - Vue.js(v2.x+) component wrap for ECharts.js(v3.x+).
+- 🇨🇳 [echarts-for-vue](https://github.com/ambit-tsai/echarts-for-vue) @Ambit-Tsai - ECharts wrapper component for Vue 3 and 2.
 
 ## Languages
 
