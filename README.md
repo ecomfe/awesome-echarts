@@ -160,6 +160,7 @@ _提示：带有「🇨🇳」的项目为中文资源，或包含中文文档�
 - [krisk](https://github.com/napjon/krisk) @napjon - Statistical Interactive Visualization with pandas+Jupyter integration on top of Echarts.
 - 🇨🇳 [pyecharts](https://github.com/pyecharts/pyecharts) @chenjiandongx - Python Echarts Plotting Library.
 - [pyecharts-snapshot](https://github.com/pyecharts/pyecharts-snapshot) @pyecharts dev team - Renders the output of pyecharts as png, jpeg, gif and pdf
+- 🇨🇳 [echarts-django](https://github.com/JohnYan2017/Echarts-Django) @JohnYan2017 - Platform to connect SQL with echarts and can be embeded in project.
 
 ### R
 
