@@ -22,6 +22,7 @@ _提示：带有「🇨🇳」的项目为中文资源，或包含中文文档�
     - [React Native Component](#react-native-component)
     - [Vue Component](#vue-component)
 - [Languages](#languages)
+    - [Clojure](#clojure)
     - [Dart](#dart)
     - [Golang](#golang)
     - [iOS](#ios)
@@ -111,6 +112,10 @@ _提示：带有「🇨🇳」的项目为中文资源，或包含中文文档�
 - 🇨🇳 [echarts-for-vue](https://github.com/ambit-tsai/echarts-for-vue) @Ambit-Tsai - ECharts wrapper component for Vue 3 and 2.
 
 ## Languages
+
+### Clojure
+
+- [re-echarts](https://github.com/kimim/re-echarts) @kimim - A clojurescript library to use ECharts, with react/reagent.
 
 ### Dart
 
