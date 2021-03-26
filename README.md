@@ -73,7 +73,7 @@ _提示：带有「🇨🇳」的项目为中文资源，或包含中文文档�
 - 🇨🇳 [openlayers-echarts3](https://github.com/sakitam-fdd/ol3Echarts) - ECharts 的 OpenLayers 扩展，实现 OpenLayers 地图数据可视化，支持 OpenLayers 3 和 OpenLayers 4。
 - [wordcloud](https://github.com/ecomfe/echarts-wordcloud) - ECharts wordcloud extension based on wordcloud2.js.
 - 🇨🇳 [百度地图扩展](https://github.com/apache/echarts/tree/master/extension/bmap) - ECharts 百度地图扩展，可以在百度地图上展现点图，线图，热力图等可视化。
-- 🇨🇳 [高德地图扩展](https://github.com/plainheart/echarts-extension-amap) - ECharts 高德地图扩展，可以在百度地图上展现点图，线图，热力图等可视化。
+- 🇨🇳 [高德地图扩展](https://github.com/plainheart/echarts-extension-amap) - ECharts 高德地图扩展，可以在高德地图上展现点图，线图，热力图等可视化。
 
 ## Frameworks
 
