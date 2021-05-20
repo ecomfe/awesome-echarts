@@ -1,6 +1,6 @@
 # awesome-echarts [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
-This is a repo contributed by community with awesome resources for [Apache ECharts (incubating)](https://github.com/apache/incubator-echarts).
+This is a repo contributed by community with awesome resources for [Apache ECharts](https://github.com/apache/echarts).
 
 > Awesome list of ECharts
 
@@ -43,7 +43,7 @@ _提示：带有「🇨🇳」的项目为中文资源，或包含中文文档�
 
 ## About
 
-[Apache ECharts (incubating)](https://github.com/apache/incubator-echarts) is a free, powerful charting and visualization library offering an easy way of adding intuitive, interactive, and highly customizable charts to your commercial products. It is written in pure JavaScript and based on [zrender](https://github.com/ecomfe/zrender), which is a whole new lightweight canvas library.
+[Apache ECharts](https://github.com/apache/echarts) is a free, powerful charting and visualization library offering an easy way of adding intuitive, interactive, and highly customizable charts to your commercial products. It is written in pure JavaScript and based on [zrender](https://github.com/ecomfe/zrender), which is a whole new lightweight canvas library.
 
 ## Learn
 
@@ -52,9 +52,9 @@ _提示：带有「🇨🇳」的项目为中文资源，或包含中文文档�
 - [Tutorial](https://echarts.apache.org/en/tutorial.html)
 - [API](https://echarts.apache.org/en/api.html)
 - [Option Manual](https://echarts.apache.org/en/option.html)
-- 🇨🇳 [教程](http://echarts.baidu.com/tutorial.html)
-- 🇨🇳 [API](http://echarts.baidu.com/api.html)
-- 🇨🇳 [配置项手册](http://echarts.baidu.com/option.html)
+- 🇨🇳 [教程](https://echarts.apache.org/zh/tutorial.html)
+- 🇨🇳 [API](https://echarts.apache.org/zh/api.html)
+- 🇨🇳 [配置项手册](https://echarts.apache.org/zh/option.html)
 
 ### Videos
 
@@ -71,9 +71,11 @@ _提示：带有「🇨🇳」的项目为中文资源，或包含中文文档�
 - 🇨🇳 [MapBoxGL-echarts3-layer](https://github.com/lzxue/echartsLayer) - ECharts MapBoxGL 扩展，可以从二，三维视角展示空间点，线，面，数据.
 - [maptalks.e3](https://github.com/maptalks/maptalks.e3) - A plugin to integrate ECharts 3 as a layer with [maptalks.js](https://github.com/maptalks/maptalks.js).
 - 🇨🇳 [openlayers-echarts3](https://github.com/sakitam-fdd/ol3Echarts) - ECharts 的 OpenLayers 扩展，实现 OpenLayers 地图数据可视化，支持 OpenLayers 3 和 OpenLayers 4。
-- [wordcloud](https://github.com/ecomfe/echarts-wordcloud) - ECharts wordcloud extension based on wordcloud2.js.
+- [wordcloud 词云](https://github.com/ecomfe/echarts-wordcloud) - ECharts wordcloud extension based on wordcloud2.js.
+- [liquidfill 水球图](https://github.com/ecomfe/echarts-wordcloud) - Liquid Fill Chart plugin for Apache ECharts, which is usually used to represent data in percentage.
 - 🇨🇳 [百度地图扩展](https://github.com/apache/echarts/tree/master/extension/bmap) - ECharts 百度地图扩展，可以在百度地图上展现点图，线图，热力图等可视化。
 - 🇨🇳 [高德地图扩展](https://github.com/plainheart/echarts-extension-amap) - ECharts 高德地图扩展，可以在高德地图上展现点图，线图，热力图等可视化。
+- [echarts-extension-gmap](https://github.com/plainheart/echarts-extension-gmap) - A [Google Map](https://www.google.com/maps) extension for Apache ECharts.
 
 ## Frameworks
 
@@ -135,8 +137,8 @@ _提示：带有「🇨🇳」的项目为中文资源，或包含中文文档�
 
 ### JavaScript
 
-- [echarts](https://github.com/ecomfe/echarts)
-- [echarts-x](https://github.com/ecomfe/echarts-x)
+- [echarts](https://github.com/apache/echarts)
+- [echarts-gl](https://github.com/ecomfe/echarts-gl)
 
 ### Julia
 
@@ -186,10 +188,10 @@ _提示：带有「🇨🇳」的项目为中文资源，或包含中文文档�
 
 ## Community
 
-- 🇨🇳 [ECharts Gallery](http://gallery.echartsjs.com/)
-- [GitHub](https://github.com/ecomfe/echarts)
-- [Twitter](https://twitter.com/EChartsJs)
-- 🇨🇳 [Weibo](http://weibo.com/echarts)
+- 🇨🇳 [ECharts Gallery](https://www.makeapie.com)
+- [GitHub](https://github.com/apache/echarts)
+- [Twitter](https://twitter.com/ApacheECharts)
+- 🇨🇳 [Weibo](https://weibo.com/echarts)
 
 ## License
 
