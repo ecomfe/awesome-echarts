@@ -151,6 +151,7 @@ _提示：带有「🇨🇳」的项目为中文资源，或包含中文文档�
 ### .NET
 
 - 🇨🇳 [EChartsSDK](https://github.com/idoku/EChartsSDK) @idoku - ECharts的.NET类库,从ECharts的Java类库移植。
+- [TagEChartsBlazor](https://github.com/draculakkk/TagEChartsBlazor) @draculakkk - Blazor package for the echarts,can use tags to create echarts
 
 ### Node.js
 
