@@ -36,6 +36,7 @@ _提示：带有「🇨🇳」的项目为中文资源，或包含中文文档�
     - [PureScript](#purescript)
     - [Python](#python)
     - [R](#r)
+    - [Ruby](#ruby)
 - [Tools](#tools)
     - [VSCode Extension](#vscode-extensions)
 - [Community](#community)
@@ -178,6 +179,10 @@ _提示：带有「🇨🇳」的项目为中文资源，或包含中文文档�
 - 🇨🇳 [recharts](https://github.com/taiyun/recharts) @taiyun - A R interface to ECharts for data visualization.
 - [recharts](https://github.com/yihui/recharts) @yihui - An R Interface to ECharts
 - [echarty](https://github.com/helgasoft/echarty) @helgasoft - Minimal R/Shiny wrapper supports full functionality of ECharts
+
+### Ruby
+
+- [rails_charts](https://github.com/railsjazz/rails_charts) - create charts in Ruby on Rails application with just a few lines of code
 
 ### PHP
 
