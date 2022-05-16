@@ -36,6 +36,7 @@ _提示：带有「🇨🇳」的项目为中文资源，或包含中文文档�
     - [PureScript](#purescript)
     - [Python](#python)
     - [R](#r)
+    - [Tcl](#tcl)
     - [Ruby](#ruby)
 - [Tools](#tools)
     - [VSCode Extension](#vscode-extensions)
@@ -183,6 +184,10 @@ _提示：带有「🇨🇳」的项目为中文资源，或包含中文文档�
 ### Ruby
 
 - [rails_charts](https://github.com/railsjazz/rails_charts) - create charts in Ruby on Rails application with just a few lines of code
+
+### Tcl
+
+- [ticklEcharts](https://github.com/nico-robert/ticklecharts) - Tcl wrapper for Apache ECharts
 
 ### PHP
 
