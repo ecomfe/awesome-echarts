@@ -136,6 +136,7 @@ _提示：带有「🇨🇳」的项目为中文资源，或包含中文文档�
 ### Java
 
 - 🇨🇳 [ECharts-Java](https://github.com/abel533/ECharts) @Liuzh_533 - 一个供Java开发使用的ECharts的开发包。
+- 🇨🇳 [ECharts Java](https://github.com/ECharts-Java/ECharts-Java) @IcePear-Jzx @incandescentxxc  A Java data visualization library based on ECharts 5.x
 
 ### JavaScript
 
