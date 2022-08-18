@@ -107,7 +107,7 @@ _提示：带有「🇨🇳」的项目为中文资源，或包含中文文档�
 
 ### Vue Component
 
-- 🇨🇳 [echarts-middleware](https://github.com/PUGE/echarts-middleware) @PUGE - 在vue中优雅，高效的使用echarts
+- 🇨🇳 [echarts-middleware](https://github.com/lulucut/echarts-middleware) @PUGE - 在vue中优雅，高效的使用echarts
 - [vue-echarts](https://github.com/Justineo/vue-echarts) @Justineo - ECharts component for Vue.js.
 - [vue-echarts](https://github.com/panteng/vue-echarts) @panteng - A custom directive for using Echarts in Vue.js apps.
 - [vue-echarts-lite](https://github.com/LeungZ9/vue-echarts-lite) @LeungZ9 - A lite Vue.js 2.0+ component for ECharts V3.
