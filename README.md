@@ -15,6 +15,7 @@ _提示：带有「🇨🇳」的项目为中文资源，或包含中文文档�
     - [Videos](#videos)
 - [Extensions](#extensions)
 - [Frameworks](#frameworks)
+    - [Angular Component](#angular-component)
     - [AngularJS Binding](#angularjs-binding)
     - [Blazor Binding](#blazor-binding)
     - [Flutter Component](#flutter-component)
@@ -79,6 +80,11 @@ _提示：带有「🇨🇳」的项目为中文资源，或包含中文文档�
 - [echarts-extension-gmap](https://github.com/plainheart/echarts-extension-gmap) - A [Google Map](https://www.google.com/maps) extension for Apache ECharts.
 
 ## Frameworks
+
+
+### Angular Component
+
+- [ngx-echarts](https://github.com/xieziyu/ngx-echarts) @xieziyu - Angular (ver >= 2.x) directive for ECharts.
 
 ### AngularJS Binding
 
