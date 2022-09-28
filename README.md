@@ -135,6 +135,10 @@ _提示：带有「🇨🇳」的项目为中文资源，或包含中文文档�
 
 - 🇨🇳 [go-echarts](https://github.com/chenjiandongx/go-echarts) @chenjiandongx - The adorable charts library for Golang.
 
+### HTTP Server
+
+- [Apache ECharts HTTP Export Server](https://github.com/xiaomaigou/echarts-export-server) @xiaomaiyun - This is a Node.js-based service, and uses node canvas to render Apache ECharts charts to images (PNG, JPG, SVG , PDF and Base64) to be sent back to the user..
+
 ### iOS
 
 - 🇨🇳 [iOS-Echarts](https://github.com/Pluto-Y/iOS-Echarts) @Pluto-Y - This is a highly custom chart control for iOS and Mac apps, which build with the EChart(Echart2).
