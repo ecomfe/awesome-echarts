@@ -138,7 +138,7 @@ _提示：带有「🇨🇳」的项目为中文资源，或包含中文文档�
 
 ### HTTP Server
 
-- [Apache ECharts HTTP Export Server](https://github.com/xiaomaigou/echarts-export-server) @xiaomaiyun - This is a Node.js-based service, and uses node canvas to render Apache ECharts charts to images (PNG, JPG, SVG , PDF and Base64) to be sent back to the user..
+- [Apache ECharts HTTP Export Server](https://github.com/xiaomaigou/echarts-export-server) @xiaomaiyun - This is a Node.js-based service, and uses node canvas to render Apache ECharts charts to images (PNG, JPG, SVG, PDF and Base64) to be sent back to the user..
 
 ### iOS
 
