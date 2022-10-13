@@ -111,6 +111,7 @@ _提示：带有「🇨🇳」的项目为中文资源，或包含中文文档�
 ### React Native Component
 
 - [react-native-echarts-wrapper](https://github.com/tomLadder/react-native-echarts-wrapper) @tomLadder - 📈Powerful React-Native ECharts Wrapper 📊
+- 🇨🇳 [react-native-echarts-pro](https://github.com/supervons/react-native-echarts-pro) @supervons - 基于 Apeach-Echarts 并支持各种图表、地图的 React-Native 图表库
 
 ### Vue Component
 
