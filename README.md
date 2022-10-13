@@ -88,8 +88,8 @@ _提示：带有「🇨🇳」的项目为中文资源，或包含中文文档�
 
 ### AngularJS Binding
 
-- [angular-echarts](https://github.com/wangshijun/angular-echarts) @wangshijun - AngularJS bindings for Baidu ECharts.
-- 🇨🇳 [echarts-ng](https://github.com/bornkiller/echarts-ng) @bornkiller - Simple AngularJS wrap for Baidu ECharts.
+- [angular-echarts](https://github.com/wangshijun/angular-echarts) @wangshijun - AngularJS bindings for Apache ECharts.
+- 🇨🇳 [echarts-ng](https://github.com/bornkiller/echarts-ng) @bornkiller - Simple AngularJS wrap for Apache ECharts.
 - 🇨🇳 [ng-echarts](https://github.com/liekkas/ng-echarts) @liekkas
 
 ### Blazor Binding
@@ -102,7 +102,7 @@ _提示：带有「🇨🇳」的项目为中文资源，或包含中文文档�
 
 ### React Component
 
-- [echarts-for-react](https://github.com/hustcc/echarts-for-react) @hustcc - baidu Echarts(v3.0) components for React wrapper.
+- [echarts-for-react](https://github.com/hustcc/echarts-for-react) @hustcc - Apache ECharts components for React wrapper.
 - 🇨🇳 [react-echarts](https://github.com/somonus/react-echarts) @somonus
 - [react-echarts-v3](https://github.com/xlsdg/react-echarts-v3) @xlsdg - React component wrap for ECharts.js(v3.x).
 - 🇨🇳 [re-echarts](https://github.com/liekkas/re-echarts) @liekkas
@@ -169,7 +169,7 @@ _提示：带有「🇨🇳」的项目为中文资源，或包含中文文档�
 
 ### PureScript
 
-- [purescript-echarts](https://github.com/slamdata/purescript-echarts/) - Purescript bindings for Baidu's Echarts library.
+- [purescript-echarts](https://github.com/slamdata/purescript-echarts/) - Purescript bindings for Apache ECharts.
 
 ### Python
 
