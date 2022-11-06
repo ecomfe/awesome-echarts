@@ -107,6 +107,7 @@ _提示：带有「🇨🇳」的项目为中文资源，或包含中文文档�
 - 🇨🇳 [react-echarts](https://github.com/somonus/react-echarts) @somonus
 - [react-echarts-v3](https://github.com/xlsdg/react-echarts-v3) @xlsdg - React component wrap for ECharts.js(v3.x).
 - 🇨🇳 [re-echarts](https://github.com/liekkas/re-echarts) @liekkas
+- 🇨🇳 [tsxecharts](https://github.com/lloydzhou/tsxecharts) @lloydzhou - React component wrapper for ECharts based on TypeScript.
 
 ### React Native Component
 
