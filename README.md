@@ -39,6 +39,7 @@ _提示：带有「🇨🇳」的项目为中文资源，或包含中文文档�
     - [R](#r)
     - [Ruby](#ruby)
 - [Tools](#tools)
+    - [Markdown](#markdown)
     - [VSCode Extension](#vscode-extensions)
 - [Community](#community)
 - [License](#license)
@@ -198,6 +199,11 @@ _提示：带有「🇨🇳」的项目为中文资源，或包含中文文档�
 - [Echarts-PHP](https://github.com/hisune/Echarts-PHP) @hisune - a PHP library that works as a wrapper for the Echarts js library.
 
 ## Tools
+
+### Markdown
+
+- [mdbook-echarts](https://github.com/zhuangbiaowei/mdbook-echarts) @zhuangbiaowei - A preprocessor and cli tool to use Apache ECharts in mdbook.
+
 ### VSCode Extensions
 - [echarts-vscode-extension](https://github.com/susiwen8/echarts-vscode-extension) @susiwen8 - vscode extension for ECharts autocompletion
 
