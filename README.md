@@ -21,6 +21,7 @@ _提示：带有「🇨🇳」的项目为中文资源，或包含中文文档�
     - [Flutter Component](#flutter-component)
     - [React Component](#react-component)
     - [React Native Component](#react-native-component)
+    - [Svelte Component](#svelte-component)
     - [Vue Component](#vue-component)
 - [Languages](#languages)
     - [Clojure](#clojure)
@@ -112,6 +113,10 @@ _提示：带有「🇨🇳」的项目为中文资源，或包含中文文档�
 ### React Native Component
 
 - [react-native-echarts-wrapper](https://github.com/tomLadder/react-native-echarts-wrapper) @tomLadder - 📈Powerful React-Native ECharts Wrapper 📊
+
+### Svelte Component
+
+- [svelte-echarts](https://github.com/bherbruck/svelte-echarts/) @bherbruck - A simple ECharts component for Svelte!
 
 ### Vue Component
 
