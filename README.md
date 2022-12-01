@@ -200,6 +200,10 @@ _提示：带有「🇨🇳」的项目为中文资源，或包含中文文档�
 
 ## Tools
 
+### Grafana
+
+- [Apache ECharts Panel](https://github.com/volkovlabs/volkovlabs-echarts-panel) - A plugin for Grafana that allows visualizing Apache ECharts on your dashboard.
+
 ### Markdown
 
 - [mdbook-echarts](https://github.com/zhuangbiaowei/mdbook-echarts) @zhuangbiaowei - A preprocessor and cli tool to use Apache ECharts in mdbook.
