@@ -203,7 +203,6 @@ _提示：带有「🇨🇳」的项目为中文资源，或包含中文文档�
 ### Grafana
 
 - [Apache ECharts Panel](https://github.com/volkovlabs/volkovlabs-echarts-panel) - A plugin for Grafana that allows visualizing Apache ECharts on your dashboard.
-- [Examples](https://echarts.volkovlabs.io) - Grafana instance with examples to get started.
 
 ### Markdown
 
