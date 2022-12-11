@@ -42,6 +42,7 @@ This is a repo contributed by community with awesome resources for [Apache EChar
     - [Python](#python)
     - [R](#r)
     - [Ruby](#ruby)
+    - [Tcl](#tcl)
 - [Tools](#tools)
     - [Markdown](#markdown)
     - [VSCode Extension](#vscode-extensions)
@@ -200,6 +201,10 @@ This is a repo contributed by community with awesome resources for [Apache EChar
 ### Ruby
 
 - [rails_charts](https://github.com/railsjazz/rails_charts) - create charts in Ruby on Rails application with just a few lines of code
+
+### Tcl
+
+- [ticklEcharts](https://github.com/nico-robert/ticklecharts) - Tcl wrapper for Apache ECharts
 
 ### PHP
 
