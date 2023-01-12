@@ -118,6 +118,7 @@ This is a repo contributed by community with awesome resources for [Apache EChar
 
 - 🇨🇳 [react-native-echarts-pro](https://github.com/supervons/react-native-echarts-pro) @supervons - 基于 Apache ECharts 并支持各种图表、地图的 React-Native 图表库
 - [react-native-echarts-wrapper](https://github.com/tomLadder/react-native-echarts-wrapper) @tomLadder - 📈Powerful React-Native Apache ECharts Wrapper 📊
+- [wrn-echarts](https://github.com/wuba/wrn-echarts) @wuba - React Native version of Apache Echarts, based on react-native-svg and react-native-skia. Much better performance than webview based solution.
 
 
 ### Vue Component
