@@ -89,6 +89,7 @@ This is a repo contributed by community with awesome resources for [Apache EChar
 
 ### Angular Component
 
+- [echarts-for-angular](https://github.com/alixdehghani/echarts-for-angular) @behroozbc , @alixdehghani Angular (version >= 5.x) directive for Apache ECharts.
 - [ngx-echarts](https://github.com/xieziyu/ngx-echarts) @xieziyu - Angular (ver >= 2.x) directive for Apache ECharts.
 
 ### AngularJS Binding
