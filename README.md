@@ -179,6 +179,10 @@ This is a repo contributed by community with awesome resources for [Apache EChar
 - [echarts-scrappeteer](https://github.com/chfw/echarts-scrappeteer) @chfw - Puppeteer! Scrape all Apache ECharts from this web page please!
 - 🇨🇳 [node-echarts](https://github.com/suxiaoxin/node-echarts) @suxiaoxin - 后台生成 Apache ECharts 图表
 
+### PHP
+
+- [Echarts-PHP](https://github.com/hisune/Echarts-PHP) @hisune - a PHP library that works as a wrapper for the Apache ECharts js library.
+
 ### PureScript
 
 - [purescript-echarts](https://github.com/slamdata/purescript-echarts/) - Purescript bindings for Apache ECharts.
@@ -207,10 +211,6 @@ This is a repo contributed by community with awesome resources for [Apache EChar
 ### Tcl
 
 - [ticklEcharts](https://github.com/nico-robert/ticklecharts) - Tcl wrapper for Apache ECharts
-
-### PHP
-
-- [Echarts-PHP](https://github.com/hisune/Echarts-PHP) @hisune - a PHP library that works as a wrapper for the Apache ECharts js library.
 
 ## Tools
 
