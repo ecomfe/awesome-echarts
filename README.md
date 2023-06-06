@@ -153,6 +153,7 @@ This is a repo contributed by community with awesome resources for [Apache EChar
 
 ### Java
 
+- [CamsDiag](https://github.com/mnlxr/CamsDiag) @mnlxr - Cams Displacement Diagrams using Apache Echarts and Java
 - 🇨🇳 [ECharts-Java](https://github.com/abel533/ECharts) @Liuzh_533 - 一个供 Java 开发使用的 ECharts 的开发包。
 - 🇨🇳 [ECharts Java](https://github.com/ECharts-Java/ECharts-Java) @IcePear-Jzx @incandescentxxc - A Java data visualization library based on Apache ECharts 5.x.
 
