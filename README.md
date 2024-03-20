@@ -15,7 +15,7 @@ This is a repo contributed by community with awesome resources for [Apache EChar
 
 - [About](#about)
 - [Learn](#learn)
-    - [Offical docs](#offical-docs)
+    - [Official docs](#official-docs)
     - [Videos](#videos)
 - [Extensions](#extensions)
 - [Frameworks](#frameworks)
