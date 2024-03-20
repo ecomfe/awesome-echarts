@@ -226,6 +226,9 @@ This is a repo contributed by community with awesome resources for [Apache EChar
 ### VSCode Extensions
 - [echarts-vscode-extension](https://github.com/susiwen8/echarts-vscode-extension) @susiwen8 - vscode extension for Apache ECharts autocompletion
 
+### ChatGPT
+- 🇨🇳 [ChartGenie](https://github.com/wishtodaya/ChartGenie.git) @wishtodaya -一个使用自然语言生成ECharts图表的网站
+
 ## Community
 
 - 🇨🇳 [ECharts Gallery](https://www.makeapie.com)
