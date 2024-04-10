@@ -26,6 +26,7 @@ This is a repo contributed by community with awesome resources for [Apache EChar
     - [React Component](#react-component)
     - [React Native Component](#react-native-component)
     - [Vue Component](#vue-component)
+    - [Web components](#web-components)
 - [Languages](#languages)
     - [Clojure](#clojure)
     - [Dart](#dart)
@@ -110,7 +111,6 @@ This is a repo contributed by community with awesome resources for [Apache EChar
 ### React Component
 
 - [echarts-for-react](https://github.com/hustcc/echarts-for-react) @hustcc - Apache ECharts components for React wrapper.
-- [ECharts-JSX](https://github.com/idea2app/ECharts-JSX) @idea2app - A real JSX wrapper for Apache ECharts based on TypeScript.
 - 🇨🇳 [react-echarts](https://github.com/somonus/react-echarts) @somonus
 - [react-echarts-v3](https://github.com/xlsdg/react-echarts-v3) @xlsdg - React component wrap for Apache ECharts (v3.x).
 - 🇨🇳 [re-echarts](https://github.com/liekkas/re-echarts) @liekkas
@@ -132,6 +132,10 @@ This is a repo contributed by community with awesome resources for [Apache EChar
 - [vue-echarts-v3](https://github.com/xlsdg/vue-echarts-v3) @xlsdg - Vue.js(v2.x+) component wrap for Apache ECharts (v3.x+).
 - 🇨🇳 [echarts-for-vue](https://github.com/ambit-tsai/echarts-for-vue) @Ambit-Tsai - Apache ECharts wrapper component for Vue 3 and 2.
 - 🇨🇳 [vuecharts3](https://github.com/lloydzhou/vuecharts) @lloydzhou - 以组件方式调用echarts绘制图表（API参考BizCharts）
+
+### Web components
+
+- [ECharts-JSX](https://github.com/idea2app/ECharts-JSX) @idea2app - A real JSX wrapper for Apache ECharts based on TypeScript & Web components.
 
 ## Languages
 
