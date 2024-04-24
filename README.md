@@ -25,6 +25,7 @@ This is a repo contributed by community with awesome resources for [Apache EChar
     - [Flutter Component](#flutter-component)
     - [React Component](#react-component)
     - [React Native Component](#react-native-component)
+    - [Svelte Component](#svelte-component)
     - [Vue Component](#vue-component)
     - [Web components](#web-components)
 - [Languages](#languages)
@@ -122,6 +123,10 @@ This is a repo contributed by community with awesome resources for [Apache EChar
 - [react-native-echarts-wrapper](https://github.com/tomLadder/react-native-echarts-wrapper) @tomLadder - 📈Powerful React-Native Apache ECharts Wrapper 📊
 - [wrn-echarts](https://github.com/wuba/wrn-echarts) @wuba - React Native version of Apache Echarts, based on react-native-svg and react-native-skia. Much better performance than webview based solution.
 
+
+### Svelte Component
+
+- [svelte-echarts](https://github.com/bherbruck/svelte-echarts/) @bherbruck - A simple ECharts component for Svelte!
 
 ### Vue Component
 
