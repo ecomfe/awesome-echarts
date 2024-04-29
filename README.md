@@ -237,7 +237,7 @@ This is a repo contributed by community with awesome resources for [Apache EChar
 
 ## Community
 
-- 🇨🇳 [ECharts Gallery](https://www.makeapie.com)
+- 🇨🇳 [ECharts Gallery](https://www.makeapie.cn)
 - [GitHub](https://github.com/apache/echarts)
 - [Twitter](https://twitter.com/ApacheECharts)
 - 🇨🇳 [Weibo](https://weibo.com/echarts)
