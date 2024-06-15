@@ -199,6 +199,7 @@ This is a repo contributed by community with awesome resources for [Apache EChar
 
 ### Python
 
+- [ipecharts](https://github.com/trungleduc/ipecharts) @trungleduc - Apache Echarts for Jupyter.
 - [pyecharts.js](https://github.com/chfw/bryecharts) @chfw - Draw Apache ECharts using python language in modern browsers.
 - [echarts-python](https://github.com/yufeiminds/echarts-python) @yufeiminds - Generate Apache ECharts options with Python.
 - [krisk](https://github.com/napjon/krisk) @napjon - Statistical Interactive Visualization with pandas+Jupyter integration on top of Apache ECharts.
