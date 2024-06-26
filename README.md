@@ -138,6 +138,10 @@ This is a repo contributed by community with awesome resources for [Apache EChar
 - 🇨🇳 [echarts-for-vue](https://github.com/ambit-tsai/echarts-for-vue) @Ambit-Tsai - Apache ECharts wrapper component for Vue 3 and 2.
 - 🇨🇳 [vuecharts3](https://github.com/lloydzhou/vuecharts) @lloydzhou - 以组件方式调用echarts绘制图表（API参考BizCharts）
 
+### Nuxt Module
+
+- [nuxt-echarts](https://github.com/kingyue737/nuxt-echarts) @kingyue737 - Nuxt module for Apache ECharts™.
+
 ### Web components
 
 - [ECharts-JSX](https://github.com/idea2app/ECharts-JSX) @idea2app - A real JSX wrapper for Apache ECharts based on TypeScript & Web components.
