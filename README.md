@@ -138,6 +138,7 @@ This is a repo contributed by community with awesome resources for [Apache EChar
 - [vue-echarts-v3](https://github.com/xlsdg/vue-echarts-v3) @xlsdg - Vue.js(v2.x+) component wrap for Apache ECharts (v3.x+).
 - 🇨🇳 [echarts-for-vue](https://github.com/ambit-tsai/echarts-for-vue) @Ambit-Tsai - Apache ECharts wrapper component for Vue 3 and 2.
 - 🇨🇳 [vuecharts3](https://github.com/lloydzhou/vuecharts) @lloydzhou - 以组件方式调用echarts绘制图表（API参考BizCharts）
+- 🇨🇳 [@wuxianx/charts-vue](https://github.com/wuxian-space/wuxianx-charts) @yuexiaoliang - Our goal is to generate a chart with just one line of code.
 
 ### Web components
 
