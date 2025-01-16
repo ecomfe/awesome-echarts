@@ -10,7 +10,7 @@ This is a repo contributed by community with awesome resources for [Apache EChar
 > **Note**
 >
 > 带有「🇨🇳」的项目为中文资源，或包含中文文档。
-> 
+>
 > Items with “🇨🇳” are either in Chinese, or contain Chinese documentation.
 
 - [About](#about)
@@ -116,6 +116,7 @@ This is a repo contributed by community with awesome resources for [Apache EChar
 - [react-echarts-v3](https://github.com/xlsdg/react-echarts-v3) @xlsdg - React component wrap for Apache ECharts (v3.x).
 - 🇨🇳 [re-echarts](https://github.com/liekkas/re-echarts) @liekkas
 - 🇨🇳 [tsxecharts](https://github.com/lloydzhou/tsxecharts) @lloydzhou - React component wrapper for ECharts based on TypeScript.
+- [react-echarts](https://github.com/hugocxl/react-echarts) @hugocxl - ECharts for React.
 
 ### React Native Component
 
